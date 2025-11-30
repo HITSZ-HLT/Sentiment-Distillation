@@ -1,0 +1,5 @@
+{
+  "Qwen2.5-1.5B-sentiment-distillation-v1": "./model_weights/Qwen2.5-1.5B-sentiment-distillation-v1",
+  "llama-3-1B-sentiment-distillation-v1": "./model_weights/llama-3-1B-sentiment-distillation-v1",
+  "llama-3-3B-sentiment-distillation-v1": "./model_weights/llama-3-3B-sentiment-distillation-v1"
+}
